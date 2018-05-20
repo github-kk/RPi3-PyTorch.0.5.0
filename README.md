@@ -6,4 +6,5 @@ PyTorch in RaspberryPi 3B
   - `sudo pip install --upgrade numpy` <br>
     numpy 1.14.3
 - The wheel file size is big. Please check https://pypi.org/project/rpi3.torch/. 
+
 Have fun :)
